@@ -66,3 +66,4 @@ Of course, not all wrappers are of poor quality. For example, the commons-loggin
 
 - https://blog.sentry.io/2016/01/28/capturing-java-exceptions
 - http://articles.qos.ch/thinkAgain.html
+- https://spring.io/blog/2009/12/04/logging-dependencies-in-spring/
