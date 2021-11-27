@@ -8,7 +8,7 @@
     <artifactId>spring-log-thinking</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>1991-log4j</module>
+        <module>1999-log4j</module>
         <module>2002-2-jul</module>
         <module>2002-8-jcl</module>
         <module>2005-slf4j</module>
