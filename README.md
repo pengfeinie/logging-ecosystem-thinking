@@ -68,3 +68,4 @@ Of course, not all wrappers are of poor quality. For example, the commons-loggin
 - http://articles.qos.ch/thinkAgain.html
 - https://spring.io/blog/2009/12/04/logging-dependencies-in-spring/
 - https://mkyong.com/logging/log4j-log4j-properties-examples/
+- https://howtodoinjava.com/log4j/how-to-configure-log4j-using-properties-file/
