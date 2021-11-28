@@ -6,3 +6,4 @@
 /target/tomcat/logs
 
 /.idea
+/1999-log4j/target/classes
