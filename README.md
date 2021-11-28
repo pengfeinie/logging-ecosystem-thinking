@@ -70,3 +70,4 @@ Of course, not all wrappers are of poor quality. For example, the commons-loggin
 - https://mkyong.com/logging/log4j-log4j-properties-examples/
 - https://howtodoinjava.com/log4j/how-to-configure-log4j-using-properties-file/
 - https://logging.apache.org/log4j/1.2/changes-report.html
+- https://blogs.apache.org/foundation/entry/apache_logging_services_project_announces
