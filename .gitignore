@@ -8,3 +8,12 @@
 /.idea
 /1999-log4j/target/classes
 /2002-2-jul/target/classes
+/1999-log4j/*.iml
+/2006-logback/*.iml
+/2002-2-jul/*.iml
+/2002-8-jcl/*.iml
+/2002-8-jcl/target/classes/com/example/jcl/*.class
+/2005-slf4j/*.iml
+/2012-log4j2/*.iml
+/*.iml
+/spring4.0.0-log-thinking/*.iml
