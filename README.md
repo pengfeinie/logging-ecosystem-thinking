@@ -71,3 +71,5 @@ Of course, not all wrappers are of poor quality. For example, the commons-loggin
 - https://howtodoinjava.com/log4j/how-to-configure-log4j-using-properties-file/
 - https://logging.apache.org/log4j/1.2/changes-report.html
 - https://blogs.apache.org/foundation/entry/apache_logging_services_project_announces
+- https://mkyong.com/logging/log4j2-xml-example/
+- https://howtodoinjava.com/log4j2/log4j2-xml-configuration-example/
