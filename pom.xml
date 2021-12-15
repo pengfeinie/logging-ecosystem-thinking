@@ -14,7 +14,8 @@
         <module>2005-slf4j</module>
         <module>2006-logback</module>
         <module>2012-log4j2</module>
-        <module>log4j2-cve-2021-44228</module>
+        <module>log4j2-cv2-2021-44228-hacker</module>
+        <module>log4j2-cv2-2021-44228-service</module>
     </modules>
     <packaging>pom</packaging>
 

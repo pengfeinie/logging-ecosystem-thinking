@@ -82,7 +82,7 @@
             <AppenderRef ref="Console" />
         </Logger>
 
-        <Logger name="com.howtodoinjava.app" additivity="false" level="debug">
+        <Logger name="com.example.logging.log4j2.cv2.service" additivity="false" level="debug">
             <AppenderRef ref="debugLog" />
             <AppenderRef ref="infoLog"  />
             <AppenderRef ref="errorLog" />

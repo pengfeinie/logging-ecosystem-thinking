@@ -61,3 +61,9 @@
 /log4j2-cve-2021-44228/log4j2-cv2-2021-44228-hacker/*.project
 /log4j2-cve-2021-44228/log4j2-cv2-2021-44228-hacker/.settings/*.prefs
 /log4j2-cve-2021-44228/log4j2-cv2-2021-44228-service/*.project
+/log4j2-cv2-2021-44228-hacker/*.classpath
+/log4j2-cv2-2021-44228-hacker/*.project
+/log4j2-cv2-2021-44228-hacker/.settings/*.prefs
+/log4j2-cv2-2021-44228-service/*.project
+/log4j2-cv2-2021-44228-service/target/classes/com/example/logging/log4j2/cv2/service/*.class
+/log4j2-cv2-2021-44228-service/target/classes
