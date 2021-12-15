@@ -67,3 +67,4 @@
 /log4j2-cv2-2021-44228-service/*.project
 /log4j2-cv2-2021-44228-service/target/classes/com/example/logging/log4j2/cv2/service/*.class
 /log4j2-cv2-2021-44228-service/target/classes
+/log4j2-cv2-2021-44228-hacker/target/classes/com/example/logging/log4j2/cv2/hacker/*.class
