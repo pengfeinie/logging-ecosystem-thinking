@@ -17,3 +17,4 @@
 /2012-log4j2/*.iml
 /*.iml
 /spring4.0.0-log-thinking/*.iml
+/log4j2-cve-2021-44228/log4j2-cv2-2021-44228-hacker/target/classes/com/example/logging/log4j2/cv2/hacker/*.class
